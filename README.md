@@ -10,12 +10,26 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Building **Ghoroa Bazar** → Full-stack marketplace with real backend integration  
-- 🧠 Creating **YearWrap** → AI-powered personalized yearly recap system  
-- ⚙️ Strong focus on **Backend, APIs & System Design**  
-- 🤖 Exploring **AI-driven personalization & intelligent logic**  
-- 💡 I build **real products, not just UI**
+## 🚀 System Overview
+
+```yaml
+user: Nabanita
+role: Full Stack Developer + AI Builder
+
+current_focus:
+  - Building Ghoroa Bazar (scalable marketplace system)
+  - Developing YearWrap (AI-powered personalization engine)
+
+core_skills:
+  backend: API design, data flow, system architecture
+  frontend: React, dynamic UI rendering
+  ai_logic: rule-based intelligence, personalization systems
+  database: MongoDB / SQL
+
+philosophy:
+  - "Build real systems, not just interfaces"
+  - "Think in logic, not just code"
+  - "Every project should solve a real problem"
 
 ---
 
