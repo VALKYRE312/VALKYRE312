@@ -1,21 +1,38 @@
-
 <h1 align="center">Hey 👋, I'm Nabanita</h1>
-<h3 align="center">💻 Developer | 🚀 Building cool stuff</h3>
+<h3 align="center">⚡ Full Stack Developer | 🤖 AI Enthusiast | 🧠 Problem Solver</h3>
 
 ---
 
-### 🌟 About Me
-- 🔭 Working on: Year Wrap / Smart Health
-- 🌱 Learning: Full Stack Development
-- 💬 Ask me about: React, Git, Projects
-- ⚡ Fun fact: I love building UI
+### 🚀 About Me
+- 🔭 Currently building **Ghoroa Bazar** – a scalable marketplace with real product integration & backend logic  
+- 🧠 Working on **YearWrap** – an AI-powered personalized yearly recap platform  
+- ⚙️ Strong focus on **Backend Development, APIs & Data Flow**
+- 🤖 Exploring **AI-driven personalization & intelligent systems**
+- 🛠️ I enjoy turning ideas into **real, working products (not just UI)**
 
 ---
 
-### 🚀 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,node,python,git,github,vscode" />
-</p>
+### 🧠 What I Work With
+- 💻 **Frontend:** React, Vite, Modern UI Systems  
+- ⚙️ **Backend:** Node.js, API Design, Authentication  
+- 🐍 **Python:** Data handling, scripting, backend logic  
+- 🧠 **AI Concepts:** Rule-based systems, personalization engines  
+- 🗄️ **Database:** MongoDB / SQL (data structuring & optimization)  
+- 🔧 **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+### 💡 Featured Projects
+
+#### 🛒 Ghoroa Bazar
+- Full-stack e-commerce platform  
+- Dynamic product rendering from backend  
+- Focus on **real-world scalability & clean architecture**
+
+#### 🎧 YearWrap
+- AI-powered yearly recap generator  
+- Intelligent content selection based on user data  
+- Designed for **personalized digital experiences**
 
 ---
 
@@ -26,12 +43,19 @@
 
 ---
 
-### 🔥 Streak
+### 🔥 Contribution Streak
 ![Streak](https://streak-stats.demolab.com?user=VALKYRE312&theme=tokyonight)
 
 ---
 
-### 📫 Connect with me
+### ⚡ Dev Mindset
+- 🚀 Build > Learn > Improve > Repeat  
+- 🧩 Focus on **problem-solving, not just coding**  
+- 🎯 Aim: Becoming a **strong full-stack + AI engineer**
+
+---
+
+### 📫 Connect With Me
 <p>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-pink" /></a>
